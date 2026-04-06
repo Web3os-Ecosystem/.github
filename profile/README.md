@@ -172,7 +172,7 @@ A gamified arena where citizens participate in network validation and governance
 
 | | |
 |---|---|
-| **Repo** | [`wcn-ubiarena`](https://github.com/Web3os-Ecosystem/ubiarena) |
+| **Repo** | [`wcn-ubiarena`](https://github.com/Web3os-Ecosystem/wcn-ubiarena) |
 | **Stack** | Rust · TypeScript · React |
 | **Status** | 🚧 Dev |
 
