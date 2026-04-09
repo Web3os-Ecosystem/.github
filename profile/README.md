@@ -84,7 +84,7 @@ The developer and creator toolkit. Studio houses the engines that breathe life i
 
 | | |
 |---|---|
-| **Repo** | [`web3os-sdk`](https://github.com/Web3os-Ecosystem/web3os-sdk) |
+| **Repo** | [`web3os-sdk`](https://github.com/Web3os-Ecosystem/web3os-studio) |
 | **Stack** | Rust · TypeScript · React |
 | **Status** | 🚧 Dev |
 
