@@ -116,7 +116,7 @@ The citizen-facing social layer combining profile identity, messaging, content s
 
 | | |
 |---|---|
-| **Repo** | [`wcn-social-suite-mvp`](https://github.com/Web3os-Ecosystem/social-suite) |
+| **Repo** | [`wcn-social-suite-mvp`](https://github.com/Web3os-Ecosystem/wcn-social-suite) |
 | **Stack** | TypeScript · React · Vite · TailwindCSS |
 | **Status** | 🟢 MVP |
 
@@ -130,7 +130,7 @@ The digital identity gateway. Handles citizen onboarding with sovereign document
 
 | | |
 |---|---|
-| **Repo** | [`wcn-onav3d`](https://github.com/Web3os-Ecosystem/onav3d) |
+| **Repo** | [`wcn-onav3d`](https://github.com/Web3os-Ecosystem/wcn-onav3d) |
 | **Stack** | Rust · Axum · PostgreSQL · Ollama |
 | **Status** | 🚧 Dev |
 
@@ -144,7 +144,7 @@ A citizen-sovereign content filter and digital wellness engine. MeshMood lets ea
 
 | | |
 |---|---|
-| **Repo** | [`wcn-meshmood`](https://github.com/Web3os-Ecosystem/meshmood) |
+| **Repo** | [`wcn-meshmood`](https://github.com/Web3os-Ecosystem/wcn-meshmood) |
 | **Stack** | Rust |
 | **Status** | 🚧 Dev |
 
@@ -158,7 +158,7 @@ The financial DApp. A DEX infrastructure with jurisdictional compliance baked in
 
 | | |
 |---|---|
-| **Repo** | [`wcn-quipus`](https://github.com/Web3os-Ecosystem/quipus) |
+| **Repo** | [`wcn-quipus`](https://github.com/Web3os-Ecosystem/wcn-quipus) |
 | **Stack** | Rust · React · Smart Contracts · PostgreSQL |
 | **Status** | 🚧 Dev |
 
