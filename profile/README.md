@@ -116,7 +116,7 @@ The citizen-facing social layer combining profile identity, messaging, content s
 
 | | |
 |---|---|
-| **Repo** | [`wcn-social-suite-mvp`](https://github.com/Web3os-Ecosystem/wcn-social-suite) |
+| **Repo** | [`wcn-social-suite-mvp`](https://github.com/Web3os-Ecosystem/wcn-social-suite-mvp) |
 | **Stack** | TypeScript · React · Vite · TailwindCSS |
 | **Status** | 🟢 MVP |
 
